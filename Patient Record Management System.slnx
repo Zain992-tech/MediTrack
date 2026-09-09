@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Patient Record Management System Setup/Patient Record Management System Setup.vdproj" Type="Installer">
+    <Build />
+  </Project>
+  <Project Path="Patient Record Management System/Patient Record Management System.csproj" Id="f8ca3f3c-7ab7-460e-857b-0f7cb69c8266" />
+</Solution>
